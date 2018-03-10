@@ -8,5 +8,10 @@
 *.DS_Store
 */.DS_Store
 */bin/
-/logs/
+*/logs/
 .mvn/
+*/.mvn/
+
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
