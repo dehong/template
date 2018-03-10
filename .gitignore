@@ -1,11 +1,12 @@
-target/
-/.settings/
+*/target/
+*/.settings/
 *.classpath
 *.project
-/.idea/
+*/.idea/
+.idea/
 *.iml
 *.DS_Store
 */.DS_Store
-/bin/
+*/bin/
 /logs/
 .mvn/
